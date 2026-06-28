@@ -13,7 +13,7 @@ function WorkoutDetails({workout}) {
 
   const handleClick = async()=>{
 
-    if(user){
+    if(!user){
       return
     }
 
