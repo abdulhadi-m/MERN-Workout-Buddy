@@ -30,5 +30,4 @@ M: Mongo (DB)
     npx create-react-app frontend
     npm i react-router-dom
     npm start
-    npm i date-fns (will this be written here?)
 ```
